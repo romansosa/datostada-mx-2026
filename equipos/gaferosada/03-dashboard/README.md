@@ -5,10 +5,11 @@ entre 2019 y 2025, y en qué plataformas digitales lo vive cada grupo?
 
 ## El entregable
 
-- `dashboard_historia.twbx`: libro empaquetado, con los seis CSV de `data/tableau/` incorporados.
+- `dashboard_pitch.twbx`: libro empaquetado, con los seis CSV de `data/tableau/` incorporados.
   Pestañas «Historia» (vista principal) y «Contexto», con botones para ir y volver. Interacción: clic
-  en una fila de la matriz y la gráfica 2 muestra las plataformas de esa edad.
-- `dashboard_historia.pdf`: PDF de respaldo de las dos pestañas.
+  en una fila de la matriz 01 y la gráfica 02 muestra las plataformas de esa edad. Tamaño
+  automático: para verlo a pantalla completa, modo presentación con F7 (pensado para 1920 × 1080).
+- `dashboard_pitch.pdf`: PDF de respaldo de las dos pestañas (exportado a 1920 × 1080).
 
 ## Soporte para verificar (misma estructura de carpetas que el repositorio de trabajo)
 
@@ -19,7 +20,7 @@ entre 2019 y 2025, y en qué plataformas digitales lo vive cada grupo?
 | `data/clean/` | Base de Yucatán 2019–2025 (8,530 personas) y prevalencia estatal por año |
 | `analisis/` | Un script por pregunta, con sus tablas y gráficas (factores de expansión, IC 95 % por diseño) |
 | `data/tableau/` | Los seis extractos que usa el libro (salen de los scripts de `analisis/`) |
-| `tableau/construir_twbx_historia.py` | Rehace el `.twbx` desde los CSV |
+| `tableau/construir_twbx_pitch.py` | Rehace el `.twbx` desde los CSV |
 | `docs/` | Fuentes, diccionario de datos y tablas de la exploración |
 
 Para reproducir (Python 3.11+): `pip install -r requirements.txt`, luego, desde esta carpeta,
