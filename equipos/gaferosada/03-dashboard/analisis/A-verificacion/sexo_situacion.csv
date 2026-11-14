@@ -1,0 +1,14 @@
+situacion,columna,periodo,pct_mujeres,pct_hombres,diferencia_puntos,dif_ic95_inf,dif_ic95_sup,significativa,veces_mujer_sobre_hombre,veces_ic95_inf,veces_ic95_sup,casos_mujeres_con_situacion,casos_hombres_con_situacion
+Insinuaciones o propuestas sexuales,sit_insinuaciones_sexuales,2019-2025,8.2,4.4,3.8,2.5,5.0,True,1.85,1.5,2.27,354,207
+Recibir contenido sexual,sit_envio_contenido_sexual,2019-2025,7.8,4.7,3.1,1.8,4.3,True,1.66,1.35,2.05,318,205
+Críticas por apariencia o clase social,sit_criticas_apariencia_clase,2019-2025,4.3,3.4,0.9,-0.0,1.9,False,1.27,0.99,1.63,184,153
+Difusión de contenido íntimo (desde 2021),sit_difundir_contenido_intimo,2021-2025,1.0,0.9,0.1,-0.3,0.6,False,1.12,0.69,1.83,32,38
+Otra situación (desde 2021),sit_otra_situacion,2021-2025,0.7,0.7,0.1,-0.4,0.5,False,1.12,0.6,2.09,31,25
+Rastreo de cuentas o sitios,sit_vigilar_cuentas,2019-2025,4.7,4.6,0.1,-1.1,1.2,False,1.01,0.79,1.3,208,202
+Amenaza de publicar información (desde 2021),sit_amenazar_con_publicar,2021-2025,2.2,2.6,-0.4,-1.2,0.3,False,0.83,0.6,1.16,76,96
+Publicación de información personal,sit_publicar_info_personal,2019-2025,2.2,2.8,-0.6,-1.6,0.4,False,0.78,0.53,1.15,83,105
+Suplantación de identidad,sit_usurpacion_identidad,2019-2025,4.7,5.7,-1.0,-2.1,0.1,False,0.83,0.66,1.03,206,230
+Llamadas ofensivas,sit_llamadas_ofensivas,2019-2025,4.4,5.7,-1.2,-2.4,-0.0,True,0.79,0.62,1.0,182,230
+Mensajes ofensivos,sit_mensajes_ofensivos,2019-2025,8.7,10.2,-1.5,-3.0,0.1,False,0.86,0.73,1.01,362,401
+Provocaciones para reaccionar mal,sit_provocar_en_linea,2019-2025,5.1,6.6,-1.5,-2.7,-0.4,True,0.77,0.63,0.94,232,293
+Contacto con identidades falsas,sit_contacto_nombres_falsos,2019-2025,7.8,10.4,-2.6,-4.2,-1.1,True,0.75,0.63,0.88,359,442

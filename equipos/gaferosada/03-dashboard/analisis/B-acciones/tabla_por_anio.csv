@@ -1,0 +1,121 @@
+anio,edad_amplia,respuesta,porcentaje,ic95_inf,ic95_sup,cv,victimas_muestra,casos_muestra,poca_muestra,pocos_casos
+2021,Todas,Protegerse,72.7,67.3,78.2,3.8,344,238,False,False
+2021,Todas,Reportar a la plataforma,10.2,6.7,13.7,17.4,344,35,False,False
+2021,Todas,Contarle a alguien,6.0,3.3,8.8,23.4,344,21,False,False
+2021,Todas,Confrontar al agresor,12.4,8.0,16.8,18.1,344,36,False,False
+2021,Todas,Denunciar,4.2,1.8,6.7,29.1,344,15,False,False
+2021,Todas,Ignorar o no hacer nada,22.1,17.3,26.9,11.1,344,88,False,False
+2021,12-24,Protegerse,74.0,66.0,82.0,5.5,131,93,False,False
+2021,12-24,Reportar a la plataforma,13.0,7.1,18.9,23.2,131,18,False,False
+2021,12-24,Contarle a alguien,8.1,3.1,13.0,31.2,131,10,False,False
+2021,12-24,Confrontar al agresor,15.2,8.4,22.0,22.9,131,19,False,False
+2021,12-24,Denunciar,2.3,0.0,5.3,64.9,131,3,False,True
+2021,12-24,Ignorar o no hacer nada,21.0,14.2,27.8,16.5,131,29,False,False
+2021,25-44,Protegerse,73.3,65.2,81.4,5.6,155,106,False,False
+2021,25-44,Reportar a la plataforma,9.3,4.2,14.5,28.0,155,15,False,False
+2021,25-44,Contarle a alguien,4.2,1.2,7.1,35.8,155,8,False,True
+2021,25-44,Confrontar al agresor,10.4,4.6,16.1,28.4,155,13,False,False
+2021,25-44,Denunciar,6.2,1.8,10.6,36.2,155,9,False,True
+2021,25-44,Ignorar o no hacer nada,21.6,14.0,29.1,17.8,155,42,False,False
+2021,45+,Protegerse,66.6,52.8,80.4,10.6,58,39,True,False
+2021,45+,Reportar a la plataforma,3.6,0.0,8.2,67.3,58,2,True,True
+2021,45+,Contarle a alguien,5.0,0.0,11.4,64.4,58,3,True,True
+2021,45+,Confrontar al agresor,9.5,0.5,18.5,48.1,58,4,True,True
+2021,45+,Denunciar,4.5,0.0,10.3,66.0,58,3,True,True
+2021,45+,Ignorar o no hacer nada,27.4,13.9,41.0,25.1,58,17,True,False
+2022,Todas,Protegerse,70.5,65.1,75.8,3.9,369,258,False,False
+2022,Todas,Reportar a la plataforma,12.2,8.4,16.1,16.1,369,39,False,False
+2022,Todas,Contarle a alguien,6.2,3.3,9.1,23.8,369,23,False,False
+2022,Todas,Confrontar al agresor,7.6,4.2,10.9,22.7,369,26,False,False
+2022,Todas,Denunciar,5.9,3.4,8.5,22.2,369,22,False,False
+2022,Todas,Ignorar o no hacer nada,25.2,20.1,30.3,10.3,369,96,False,False
+2022,12-24,Protegerse,74.3,66.6,82.0,5.3,152,112,False,False
+2022,12-24,Reportar a la plataforma,12.6,6.7,18.5,24.0,152,16,False,False
+2022,12-24,Contarle a alguien,6.6,1.9,11.2,36.1,152,10,False,False
+2022,12-24,Confrontar al agresor,8.5,3.5,13.5,30.3,152,12,False,False
+2022,12-24,Denunciar,4.1,0.6,7.6,43.4,152,6,False,True
+2022,12-24,Ignorar o no hacer nada,23.2,15.7,30.8,16.6,152,38,False,False
+2022,25-44,Protegerse,66.9,58.7,75.2,6.3,156,105,False,False
+2022,25-44,Reportar a la plataforma,12.9,6.7,19.1,24.6,156,18,False,False
+2022,25-44,Contarle a alguien,4.9,1.0,8.8,40.4,156,7,False,True
+2022,25-44,Confrontar al agresor,6.0,2.1,9.9,32.9,156,10,False,False
+2022,25-44,Denunciar,6.8,2.6,11.0,31.7,156,11,False,False
+2022,25-44,Ignorar o no hacer nada,27.9,19.9,35.9,14.7,156,43,False,False
+2022,45+,Protegerse,66.6,52.9,80.2,10.5,61,41,True,False
+2022,45+,Reportar a la plataforma,8.9,0.4,17.3,48.5,61,5,True,True
+2022,45+,Contarle a alguien,9.0,1.7,16.2,41.2,61,6,True,True
+2022,45+,Confrontar al agresor,8.7,0.0,18.0,53.8,61,4,True,True
+2022,45+,Denunciar,10.3,1.6,19.1,43.2,61,5,True,True
+2022,45+,Ignorar o no hacer nada,24.5,12.0,37.0,26.1,61,15,True,False
+2023,Todas,Protegerse,67.8,61.6,74.1,4.7,291,196,False,False
+2023,Todas,Reportar a la plataforma,7.1,3.8,10.4,23.6,291,20,False,False
+2023,Todas,Contarle a alguien,4.0,1.4,6.5,33.2,291,12,False,False
+2023,Todas,Confrontar al agresor,8.2,4.1,12.3,25.5,291,18,False,False
+2023,Todas,Denunciar,9.0,5.1,13.0,22.2,291,26,False,False
+2023,Todas,Ignorar o no hacer nada,17.4,12.1,22.7,15.5,291,53,False,False
+2023,12-24,Protegerse,64.1,53.9,74.2,8.1,96,64,True,False
+2023,12-24,Reportar a la plataforma,8.4,2.2,14.6,37.6,96,8,True,True
+2023,12-24,Contarle a alguien,7.7,2.0,13.5,38.0,96,8,True,True
+2023,12-24,Confrontar al agresor,14.3,6.2,22.5,29.1,96,11,True,False
+2023,12-24,Denunciar,7.2,1.8,12.6,38.4,96,7,True,True
+2023,12-24,Ignorar o no hacer nada,20.6,12.5,28.7,20.2,96,21,True,False
+2023,25-44,Protegerse,72.1,63.0,81.2,6.4,138,99,False,False
+2023,25-44,Reportar a la plataforma,7.8,3.0,12.6,31.6,138,11,False,False
+2023,25-44,Contarle a alguien,1.8,0.0,4.4,72.1,138,3,False,True
+2023,25-44,Confrontar al agresor,3.8,0.0,8.0,57.1,138,4,False,True
+2023,25-44,Denunciar,11.3,4.6,17.9,30.3,138,14,False,False
+2023,25-44,Ignorar o no hacer nada,13.3,6.2,20.4,27.4,138,17,False,False
+2023,45+,Protegerse,63.4,49.3,77.5,11.4,57,33,True,False
+2023,45+,Reportar a la plataforma,1.3,0.0,3.8,100.4,57,1,True,True
+2023,45+,Contarle a alguien,0.9,0.0,2.7,100.5,57,1,True,True
+2023,45+,Confrontar al agresor,6.6,0.0,15.0,65.5,57,3,True,True
+2023,45+,Denunciar,6.4,0.8,12.1,44.6,57,5,True,True
+2023,45+,Ignorar o no hacer nada,22.8,11.1,34.4,26.2,57,15,True,False
+2024,Todas,Protegerse,71.7,67.0,76.5,3.4,396,279,False,False
+2024,Todas,Reportar a la plataforma,7.6,4.3,10.9,22.3,396,32,False,False
+2024,Todas,Contarle a alguien,6.7,3.7,9.6,22.4,396,25,False,False
+2024,Todas,Confrontar al agresor,7.8,4.5,11.1,21.4,396,25,False,False
+2024,Todas,Denunciar,4.9,2.8,7.0,22.0,396,27,False,False
+2024,Todas,Ignorar o no hacer nada,23.3,18.7,27.8,9.9,396,104,False,False
+2024,12-24,Protegerse,72.4,62.8,82.0,6.7,114,81,False,False
+2024,12-24,Reportar a la plataforma,6.5,1.4,11.7,40.3,114,8,False,True
+2024,12-24,Contarle a alguien,7.1,2.7,11.5,31.4,114,10,False,False
+2024,12-24,Confrontar al agresor,12.8,5.1,20.4,30.4,114,11,False,False
+2024,12-24,Denunciar,1.9,0.0,5.1,85.9,114,2,False,True
+2024,12-24,Ignorar o no hacer nada,21.8,13.4,30.3,19.7,114,27,False,False
+2024,25-44,Protegerse,70.3,62.9,77.7,5.4,178,126,False,False
+2024,25-44,Reportar a la plataforma,9.5,3.3,15.7,33.3,178,16,False,False
+2024,25-44,Contarle a alguien,6.7,2.1,11.3,34.8,178,10,False,False
+2024,25-44,Confrontar al agresor,4.3,0.8,7.7,41.0,178,8,False,True
+2024,25-44,Denunciar,6.7,3.1,10.3,27.2,178,16,False,False
+2024,25-44,Ignorar o no hacer nada,20.8,14.0,27.6,16.7,178,41,False,False
+2024,45+,Protegerse,73.3,63.8,82.8,6.6,104,72,False,False
+2024,45+,Reportar a la plataforma,5.7,2.0,9.5,33.3,104,8,False,True
+2024,45+,Contarle a alguien,5.8,0.9,10.7,43.5,104,5,False,True
+2024,45+,Confrontar al agresor,6.3,0.8,11.7,44.6,104,6,False,True
+2024,45+,Denunciar,6.5,1.9,11.0,36.1,104,9,False,True
+2024,45+,Ignorar o no hacer nada,30.0,20.2,39.9,16.8,104,36,False,False
+2025,Todas,Protegerse,75.0,69.2,80.8,3.9,262,194,False,False
+2025,Todas,Reportar a la plataforma,9.0,5.1,13.0,22.1,262,24,False,False
+2025,Todas,Contarle a alguien,9.4,5.0,13.7,23.6,262,22,False,False
+2025,Todas,Confrontar al agresor,12.4,8.1,16.7,17.7,262,31,False,False
+2025,Todas,Denunciar,3.9,1.5,6.2,31.5,262,12,False,False
+2025,Todas,Ignorar o no hacer nada,21.3,15.6,26.9,13.6,262,62,False,False
+2025,12-24,Protegerse,73.5,64.1,83.0,6.6,81,59,True,False
+2025,12-24,Reportar a la plataforma,9.1,3.0,15.2,34.2,81,9,True,True
+2025,12-24,Contarle a alguien,18.6,9.6,27.5,24.6,81,15,True,False
+2025,12-24,Confrontar al agresor,17.2,8.8,25.7,25.1,81,13,True,False
+2025,12-24,Denunciar,3.3,0.0,7.1,57.2,81,3,True,True
+2025,12-24,Ignorar o no hacer nada,14.4,6.4,22.5,28.4,81,13,True,False
+2025,25-44,Protegerse,77.2,68.9,85.6,5.5,114,86,False,False
+2025,25-44,Reportar a la plataforma,9.7,3.5,15.9,32.7,114,11,False,False
+2025,25-44,Contarle a alguien,1.3,0.0,3.4,79.4,114,2,False,True
+2025,25-44,Confrontar al agresor,9.0,3.2,14.8,33.0,114,10,False,False
+2025,25-44,Denunciar,1.4,0.0,3.1,57.9,114,3,False,True
+2025,25-44,Ignorar o no hacer nada,20.4,12.6,28.2,19.6,114,26,False,False
+2025,45+,Protegerse,73.7,62.0,85.3,8.1,67,49,True,False
+2025,45+,Reportar a la plataforma,7.6,0.1,15.1,50.1,67,4,True,True
+2025,45+,Contarle a alguien,7.4,0.4,14.3,48.0,67,5,True,True
+2025,45+,Confrontar al agresor,9.7,2.2,17.2,39.4,67,8,True,True
+2025,45+,Denunciar,9.5,1.4,17.6,43.6,67,6,True,True
+2025,45+,Ignorar o no hacer nada,36.2,21.4,51.0,20.8,67,23,True,False
